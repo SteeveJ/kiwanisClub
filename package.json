@@ -1,0 +1,28 @@
+{
+  "name": "kiwanisclub",
+  "version": "1.0.0",
+  "description": "site Club kiwanis guadeloupe",
+  "main": "src/js/npm.js",
+  "dependencies": {
+    "photoswipe": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteeveJ/kiwanisClub.git"
+  },
+  "keywords": [
+    "kiwanisclub",
+    "kiwanis",
+    "enfants"
+  ],
+  "author": "Steeve Jerent, Thomas Gueguen, Christelle Loyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SteeveJ/kiwanisClub/issues"
+  },
+  "homepage": "https://github.com/SteeveJ/kiwanisClub#readme"
+}
