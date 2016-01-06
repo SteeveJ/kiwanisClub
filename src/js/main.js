@@ -12,7 +12,7 @@ $(document).ready(function(){
 	/*----------*/
 	/* mon code */
 	/*----------*/
-	console.log('script started');
 
+	
 })
 

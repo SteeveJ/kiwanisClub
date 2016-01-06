@@ -1,0 +1,29 @@
+{
+  "name": "kiwanisclub",
+  "description": "site Club kiwanis guadeloupe",
+  "main": "src/js/npm.js",
+  "authors": [
+    "Steeve Jerent",
+    "Thomas Gueguen",
+    "Christelle Loyer"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "kiwanisclub",
+    "kiwanis"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "photoswipe": "~4.1.1"
+  }
+}
